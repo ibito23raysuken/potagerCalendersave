@@ -1,13 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "25.0.0"
-
+    compileSdkVersion 23
     defaultConfig {
         applicationId "calendrierpotager.ibito.com.calendrierpotager"
         minSdkVersion 23
-        targetSdkVersion 25
         versionCode 1
         versionName "1.0"
     }
@@ -17,11 +14,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    namespace 'calendrierpotager.ibito.com.calendrierpotager'
 }
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     testImplementation 'junit:junit:4.12'
-    implementation 'com.android.support:appcompat-v7:25.3.1'
-    implementation 'com.google.android.gms:play-services-appindexing:8.1.0'
+    implementation 'com.android.support:appcompat-v7:23.4.0'
 }
