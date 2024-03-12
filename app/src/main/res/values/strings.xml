@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calendrier Potager</string>
+    <string name="calendrier">Calendrier</string>
+    <string name="phase_lune">phase lunaire</string>
+    <string name="quitter">Quitter</string>
+    <string name="nouveau">Calendrier</string>
+    <string name="nom_jardin">Nom du jardin</string>
+    <string name="mon_potage">Gerer potager</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="dialog_title">suppresion</string>
+    <string name="dialog_text">vouler vous suprimer?</string>
+    <string name="item_imageView_contentDescription">fsdfs</string>
+</resources>

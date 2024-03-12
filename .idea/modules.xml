@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalendrierPotager.iml" filepath="$PROJECT_DIR$/CalendrierPotager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalendrierPotager.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalendrierPotager.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalendrierPotager.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalendrierPotager.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalendrierPotager.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalendrierPotager.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalendrierPotager.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalendrierPotager.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

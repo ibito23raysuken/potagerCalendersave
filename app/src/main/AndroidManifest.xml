@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="calendrierpotager.ibito.com.calendrierpotager">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/pota_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <!-- SplashActivity -->
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity">
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity android:name=".GererActivity">
+        </activity>
+        <activity android:name=".PhaseActivity">
+        </activity>
+        <activity android:name=".CalendrierActivity">
+        </activity>
+        <activity android:name=".Choix_potageActicity">
+        </activity>
+        <activity android:name=".Liste_potagerActivity">
+        </activity>
+        <activity android:name=".New_potagerActivity">
+        </activity>
+        <activity android:name=".AffichageActivity">
+        </activity>
+
+    </application>
+
+</manifest>

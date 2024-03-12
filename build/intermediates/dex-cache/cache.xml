@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_43ebe2de36e439c16a9c4eb4f5bb2db97cd96c27\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_6c9381e5f37debd8ad2ea10b14375b13703a94cd\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_5cdc958728a0c07f0ee1d112da15268ba9a936f5\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_b26a1918d38f4c8615c9eeee88b58d6e4bab210a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_75d9bc0b3a7c9bc6dd6a4448282a7573d9b633bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ibito-PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_a9f3f170782a68cbe1e81cc0cfb963b71ac454c5\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_669216fda056559331d2f52f79eb5457a10c8cef\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="38801a31ffaa00e6543f1f4c6ce016eee7eddff3">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8bde2cd30e13c04c9da6d3e6ebd5a29ad5599d67\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="303a339627b888160f31edc902e83f4d4ad9a9b3">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_77878fd75e3405c921bd2f81806a9263fd6015ae\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_90064fcdc9346b5510b8d083065d364f64e13e14\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_c13f61aef9515692c97688bc8bdd1ad562439c46\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_5ddea6546b850431f8f5505e0f1f3e23fb2de751\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_17e7821b1124beb63eaf731acfff09e8f8aa4958\classes.dex" />
+    </item>
+    <item
+        jar="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Bellnet\Parcours\ESPA5\Memoire\workspace\CalendrierPotager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_186676e31150e4e44663ff3866f9b153dba80468\classes.dex" />
+    </item>
+
+</items>

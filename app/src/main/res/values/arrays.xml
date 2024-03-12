@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="noms">
+        <item>Janvier</item>
+        <item>Fevrier</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Aout</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Decembre</item>
+    </string-array>
+    <integer-array name="nJour">
+        <item>31</item>
+        <item>28</item>
+        <item>31</item>
+        <item>30</item>
+        <item>31</item>
+        <item>30</item>
+        <item>31</item>
+        <item>31</item>
+        <item>30</item>
+        <item>31</item>
+        <item>30</item>
+        <item>31</item>
+        <item>29</item>
+    </integer-array>
+    <string-array name="potageliste">
+        <item>Arachide</item>
+        <item>Ail</item>
+        <item>Aubergine</item>
+        <item>betterave</item>
+        <item>Carotte</item>
+        <item>Choux de chine</item>
+        <item>Choux de brocoli</item>
+        <item>Choux Blanc</item>
+        <item>Choux fleur</item>
+        <item>Cocombre</item>
+        <item>Courge</item>
+        <item>Courgette</item>
+        <item>Gigembre</item>
+        <item>Haricot Sec</item>
+        <item>Haricot vert</item>
+        <item>Laitue</item>
+        <item>Melon</item>
+        <item>Navet</item>
+        <item>Oignon</item>
+        <item>Petit poid</item>
+        <item>Persil</item>
+        <item>Poireau</item>
+        <item>Piment</item>
+        <item>Poid de cap</item>
+        <item>Poivron</item>
+        <item>Pomme de Terre </item>
+        <item>Radis</item>
+        <item>soja</item>
+        <item>Tomate</item>
+    </string-array>
+    <string-array name="idicon">
+        <item>"@drawable/velo"</item>
+        <item>tomates</item>
+    </string-array>
+    <string-array name="description">
+        <item>nombre de jours de levée 15-30 jours </item>
+        <item>nombre de jours de levée :20-30 jours </item>
+        <item>nombre de jours de levée :8-14 jours </item>
+        <item>nombre de jours de levée :7-10 jours </item>
+        <item>nombre de jours de levée :8-10 jours </item>
+        <item>nombre de jours de levée :10-15 jours </item>
+        <item>nombre de jours de levée :20-25 jours </item>
+        <item>nombre de jours de levée :10-14 jours </item>
+        <item>nombre de jours de levée :20-25 jours </item>
+        <item>nombre de jours de levée :4-5 jours </item>
+        <item>nombre de jours de levée :4-5 jours </item>
+        <item>nombre de jours de levée :4-5 jours </item>
+        <item>nombre de jours de levée :4-5 jours </item>
+        <item>nombre de jours de levée :4-8 jours </item>
+        <item>nombre de jours de levée :4-8 jours </item>
+        <item>nombre de jours de levée :4-8 jours </item>
+        <item>inombre de jours de levée :4-8 jours </item>
+        <item>nombre de jours de levée :10-20 jours </item>
+        <item>nombre de jours de levée :10-20 jours </item>
+        <item>nombre de jours de levée :10-20 jours </item>
+        <item>nombre de jours de levée :7-10 jours </item>
+        <item>nombre de jours de levée :7-10 jours </item>
+        <item>nombre de jours de levée :10-14 jours</item>
+        <item>nombre de jours de levée :9-12 Jours </item>
+        <item>nombre de jours de levée :10-16 jours </item>
+        <item>nombre de jours de levée :7-8 jours </item>
+        <item>nombre de jours de levée :3-5 jours </item>
+        <item>nombre de jours de levée :18-22 jours </item>
+        <item>nombre de jours de levée :l7-9 jours </item>
+    </string-array>
+
+</resources>
